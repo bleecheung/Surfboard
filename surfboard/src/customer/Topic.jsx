@@ -81,7 +81,7 @@ function Topic() {
                 <Th>id</Th>
                 <Th>title</Th>
                 <Th>description</Th>
-                <Th>time</Th>
+                <Th>minutes</Th>
                 <Th>modify</Th>
                 <Th>delete</Th>
               </Tr>
